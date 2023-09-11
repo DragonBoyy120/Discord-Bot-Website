@@ -1,6 +1,6 @@
 ![License](https://img.shields.io/github/license/mohitmimani/Discord-Bot-Website.svg?style=for-the-badge) ![Repo Size](https://img.shields.io/github/languages/code-size/mohitmimani/Discord-Bot-Website.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/mohitmimani/Discord-Bot-Website.svg?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/mohitmimani/Discord-Bot-Website.svg?style=for-the-badge&social) ![Stars](https://img.shields.io/github/stars/mohitmimani/Discord-Bot-Website.svg?style=for-the-badge)
     
-# Probot
+# Spectra
 
 ## Table of Contents
 
